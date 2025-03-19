@@ -6,7 +6,7 @@
     <img src="src/assets/images/readme_main.png" width="400" height="215" style="display: inline-block; margin-right: 10px;"/>
     <img src="src/assets/images/readme_job.png" width="400" height="215"style="display: inline-block; margin-right: 10px;"/>
     </br>
-    <img src="src/assets/images/readme_chat.png" width="400" height="215" style="display: inline-block; margin-right: 10px;"/>
+    <img src="src/assets/images/readme_chat.png" width="400" height="220" style="display: inline-block; margin-right: 10px;"/>
     <img src="src/assets/images/readme_noti.png" width="400" height="215" style="display: inline-block; margin-right: 10px;"/>
 </div>
 ## 개발 목적
